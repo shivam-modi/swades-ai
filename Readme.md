@@ -1,7 +1,4 @@
-Here’s the updated README for your project, including migration instructions for SQLite using `sequelize-cli`:
-
-```markdown
-# Project Name
+# Swades AI Blog Assignment
 
 ## Overview
 
