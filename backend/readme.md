@@ -1,6 +1,3 @@
-Here's the updated `README.md` with migration steps and using Yarn:
-
-```markdown
 # Backend API
 
 ## Overview
