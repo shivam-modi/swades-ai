@@ -1,6 +1,3 @@
-Here's a `README.md` template for the frontend:
-
-```markdown
 # Frontend Application
 
 ## Overview
